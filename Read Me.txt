@@ -1,0 +1,2 @@
+This code will calculate the average of any vector colleting input form user.
+Follow this tutorial video to see how it works: https://youtu.be/vrtlaBm6cyI
